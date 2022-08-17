@@ -1,5 +1,7 @@
 # NetflixUI-home-page-clone-HTML-CSS
 Responsive Netflix home page clone with HTML-CSS. Also included mobile view for Turkish
+
+
 ---WEB VIEW----
 
 ![1](https://user-images.githubusercontent.com/101708004/185058879-2446ccec-fdcc-493f-88d6-d2033bedc974.PNG)
